@@ -5,15 +5,13 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-ignition": "^3.0.3",
     "@nomicfoundation/hardhat-toolbox-viem": "^5.0.0",
-    "@tanstack/router-plugin": "^1.133.15",
-    "@types/node": "^22.18.11",
+    "@types/node": "^22.18.12",
     "forge-std": "github:foundry-rs/forge-std#v1.9.4",
-    "hardhat": "^3.0.7",
+    "hardhat": "^3.0.9",
     "typescript": "~5.8.3",
-    "viem": "^2.38.3"
+    "viem": "^2.38.4"
   },
   "dependencies": {
-    "@tanstack/react-router": "^1.133.15",
-    "@tanstack/react-router-devtools": "^1.133.15"
+    "@openzeppelin/contracts": "^5.4.0"
   }
 }
